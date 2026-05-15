@@ -1,0 +1,190 @@
+{
+  "avg_ccr": 1.0,
+  "n_cases": 10,
+  "results": [
+    {
+      "id": 1,
+      "description": "Biology: Photosynthesis",
+      "ccr": 1.0,
+      "cards_generated": 11,
+      "covered": [
+        "chloroplast",
+        "chlorophyll",
+        "glucose",
+        "atp",
+        "calvin cycle",
+        "light-dependent",
+        "carbon dioxide",
+        "oxygen",
+        "thylakoid"
+      ],
+      "missed": []
+    },
+    {
+      "id": 2,
+      "description": "Physics: Newton's Laws",
+      "ccr": 1.0,
+      "cards_generated": 13,
+      "covered": [
+        "inertia",
+        "acceleration",
+        "f = ma",
+        "momentum",
+        "reaction",
+        "force",
+        "mass",
+        "friction"
+      ],
+      "missed": []
+    },
+    {
+      "id": 3,
+      "description": "Biology: DNA Replication",
+      "ccr": 1.0,
+      "cards_generated": 15,
+      "covered": [
+        "semi-conservative",
+        "helicase",
+        "dna polymerase",
+        "primer",
+        "okazaki fragments",
+        "ligase",
+        "replication",
+        "origin",
+        "leading strand",
+        "lagging strand"
+      ],
+      "missed": []
+    },
+    {
+      "id": 4,
+      "description": "Economics: Supply and Demand",
+      "ccr": 1.0,
+      "cards_generated": 14,
+      "covered": [
+        "demand",
+        "supply",
+        "equilibrium",
+        "price",
+        "surplus",
+        "shortage",
+        "price ceiling",
+        "price floor",
+        "law of demand",
+        "law of supply"
+      ],
+      "missed": []
+    },
+    {
+      "id": 5,
+      "description": "History: French Revolution",
+      "ccr": 1.0,
+      "cards_generated": 15,
+      "covered": [
+        "bastille",
+        "robespierre",
+        "napoleon",
+        "estates-general",
+        "declaration of rights",
+        "reign of terror",
+        "national assembly",
+        "enlightenment",
+        "guillotine"
+      ],
+      "missed": []
+    },
+    {
+      "id": 6,
+      "description": "CS: Big O Notation",
+      "ccr": 1.0,
+      "cards_generated": 14,
+      "covered": [
+        "o(1)",
+        "o(log n)",
+        "o(n)",
+        "o(n log n)",
+        "o(n\u00b2)",
+        "time complexity",
+        "space complexity",
+        "binary search",
+        "merge sort",
+        "worst-case"
+      ],
+      "missed": []
+    },
+    {
+      "id": 7,
+      "description": "Chemistry: Chemical Bonding",
+      "ccr": 1.0,
+      "cards_generated": 13,
+      "covered": [
+        "ionic bond",
+        "covalent bond",
+        "electronegativity",
+        "polar",
+        "metallic bond",
+        "lewis",
+        "vsepr",
+        "valence electrons",
+        "nacl",
+        "bond energy"
+      ],
+      "missed": []
+    },
+    {
+      "id": 8,
+      "description": "Psychology: Cognitive Biases",
+      "ccr": 1.0,
+      "cards_generated": 8,
+      "covered": [
+        "confirmation bias",
+        "availability heuristic",
+        "anchoring",
+        "dunning-kruger",
+        "sunk cost",
+        "attribution bias",
+        "heuristic",
+        "behavioral economics"
+      ],
+      "missed": []
+    },
+    {
+      "id": 9,
+      "description": "CS: Python Data Structures",
+      "ccr": 1.0,
+      "cards_generated": 14,
+      "covered": [
+        "list",
+        "tuple",
+        "dictionary",
+        "set",
+        "mutable",
+        "immutable",
+        "key-value",
+        "append",
+        "indexing",
+        "unique"
+      ],
+      "missed": []
+    },
+    {
+      "id": 10,
+      "description": "History: American Civil War",
+      "ccr": 1.0,
+      "cards_generated": 8,
+      "covered": [
+        "slavery",
+        "confederacy",
+        "union",
+        "lincoln",
+        "emancipation proclamation",
+        "gettysburg",
+        "reconstruction",
+        "secession",
+        "appomattox",
+        "states' rights"
+      ],
+      "missed": []
+    }
+  ]
+}

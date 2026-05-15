@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "description": "Biology: Photosynthesis",
+    "passage": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. It occurs in the chloroplasts, which contain chlorophyll—a pigment that absorbs red and blue light wavelengths. The overall equation is: 6CO2 + 6H2O + light → C6H12O6 + 6O2. Photosynthesis has two stages: the light-dependent reactions occur in the thylakoid membranes and produce ATP and NADPH while releasing oxygen; the Calvin cycle (light-independent reactions) occurs in the stroma and uses ATP and NADPH to fix carbon dioxide into glucose. Factors that affect the rate include light intensity, CO2 concentration, water availability, and temperature.",
+    "expected_concepts": ["chloroplast", "chlorophyll", "glucose", "atp", "calvin cycle", "light-dependent", "carbon dioxide", "oxygen", "thylakoid"]
+  },
+  {
+    "id": 2,
+    "description": "Physics: Newton's Laws",
+    "passage": "Newton's three laws of motion are foundational to classical mechanics. The First Law (Law of Inertia) states that an object at rest stays at rest, and an object in motion continues at constant velocity, unless acted on by a net external force. The Second Law defines force as F = ma, meaning acceleration is proportional to net force and inversely proportional to mass. The Third Law states that for every action there is an equal and opposite reaction. These laws explain phenomena from collisions to projectile motion. Momentum (p = mv) is conserved in closed systems. Friction is a common force that opposes motion.",
+    "expected_concepts": ["inertia", "acceleration", "f = ma", "momentum", "reaction", "force", "mass", "friction"]
+  },
+  {
+    "id": 3,
+    "description": "Biology: DNA Replication",
+    "passage": "DNA replication is the process by which a cell copies its DNA before division, ensuring each daughter cell receives a complete genome. It follows a semi-conservative model: each new DNA molecule consists of one original strand and one newly synthesized strand. Replication begins at origins of replication and proceeds bidirectionally. Helicase unwinds the double helix by breaking hydrogen bonds between base pairs. Primase synthesizes short RNA primers. DNA polymerase adds nucleotides in the 5' to 3' direction; it builds the leading strand continuously and the lagging strand in Okazaki fragments. DNA ligase joins these fragments. Proofreading by DNA polymerase reduces errors.",
+    "expected_concepts": ["semi-conservative", "helicase", "dna polymerase", "primer", "okazaki fragments", "ligase", "replication", "origin", "leading strand", "lagging strand"]
+  },
+  {
+    "id": 4,
+    "description": "Economics: Supply and Demand",
+    "passage": "Supply and demand is the core model of market economics. Demand refers to the quantity of a good consumers are willing and able to buy at various prices; the law of demand states that price and quantity demanded are inversely related, forming a downward-sloping demand curve. Supply is the quantity producers are willing to sell at various prices; the law of supply states price and quantity supplied are positively related, forming an upward-sloping supply curve. Equilibrium is the price at which quantity supplied equals quantity demanded. Shifts in supply or demand—caused by income changes, input costs, consumer preferences, or technology—move the equilibrium. Price ceilings and price floors are government interventions that create surpluses or shortages.",
+    "expected_concepts": ["demand", "supply", "equilibrium", "price", "surplus", "shortage", "price ceiling", "price floor", "law of demand", "law of supply"]
+  },
+  {
+    "id": 5,
+    "description": "History: French Revolution",
+    "passage": "The French Revolution (1789–1799) was a period of radical political and social transformation in France. Causes included fiscal crisis, food shortages, Enlightenment ideas about liberty and equality, and resentment toward absolute monarchy and the aristocracy. The Estates-General convened in 1789; the Third Estate formed the National Assembly and swore the Tennis Court Oath. The storming of the Bastille on July 14, 1789 became the revolution's symbol. The Declaration of the Rights of Man and Citizen established fundamental rights. The Reign of Terror (1793–1794), led by Robespierre and the Committee of Public Safety, resulted in thousands of executions by guillotine. Napoleon Bonaparte rose to power by 1799, ending the revolutionary period.",
+    "expected_concepts": ["bastille", "robespierre", "napoleon", "estates-general", "declaration of rights", "reign of terror", "national assembly", "enlightenment", "guillotine"]
+  },
+  {
+    "id": 6,
+    "description": "CS: Big O Notation",
+    "passage": "Big O notation describes the time or space complexity of an algorithm in terms of input size n. O(1) is constant time—the operation takes the same time regardless of input (e.g., array indexing). O(log n) is logarithmic—common in binary search. O(n) is linear—iterating through a list. O(n log n) is typical of efficient sorting algorithms like merge sort and quicksort (average case). O(n²) is quadratic—seen in nested loops and naive sorting algorithms like bubble sort. O(2ⁿ) is exponential—common in brute-force recursive solutions. Space complexity follows the same notation. When comparing algorithms, we analyze worst-case, average-case, and best-case scenarios.",
+    "expected_concepts": ["o(1)", "o(log n)", "o(n)", "o(n log n)", "o(n²)", "time complexity", "space complexity", "binary search", "merge sort", "worst-case"]
+  },
+  {
+    "id": 7,
+    "description": "Chemistry: Chemical Bonding",
+    "passage": "Chemical bonds hold atoms together in compounds. Ionic bonds form when electrons are transferred from a metal to a nonmetal, creating oppositely charged ions that attract each other (e.g., NaCl). Covalent bonds form when atoms share electrons; in polar covalent bonds, electrons are shared unequally due to differences in electronegativity (e.g., water H₂O). Nonpolar covalent bonds share electrons equally (e.g., O₂). Metallic bonds involve a lattice of positive ions surrounded by delocalized electrons, explaining conductivity and malleability. Lewis dot structures represent valence electrons. VSEPR theory predicts molecular geometry based on electron pair repulsion. Bond energy is the energy required to break a bond.",
+    "expected_concepts": ["ionic bond", "covalent bond", "electronegativity", "polar", "metallic bond", "lewis", "vsepr", "valence electrons", "nacl", "bond energy"]
+  },
+  {
+    "id": 8,
+    "description": "Psychology: Cognitive Biases",
+    "passage": "Cognitive biases are systematic errors in thinking that affect decisions and judgments. Confirmation bias is the tendency to seek information that confirms existing beliefs while ignoring contradictory evidence. Availability heuristic leads people to judge likelihood based on how easily an example comes to mind. Anchoring bias occurs when the first piece of information encountered (the anchor) disproportionately influences subsequent judgments. The Dunning-Kruger effect describes how people with limited knowledge overestimate their competence. Sunk cost fallacy is continuing an endeavor because of past investment rather than future value. Attribution bias involves explaining others' behavior as dispositional while excusing one's own as situational. Understanding these biases is central to behavioral economics and clinical psychology.",
+    "expected_concepts": ["confirmation bias", "availability heuristic", "anchoring", "dunning-kruger", "sunk cost", "attribution bias", "heuristic", "behavioral economics"]
+  },
+  {
+    "id": 9,
+    "description": "CS: Python Data Structures",
+    "passage": "Python provides four main built-in data structures. Lists are ordered, mutable sequences that allow duplicate elements; created with square brackets, they support indexing, slicing, and methods like append() and pop(). Tuples are ordered and immutable; once created they cannot be modified, making them useful for fixed data. Dictionaries are unordered (insertion-ordered in Python 3.7+) key-value stores that provide O(1) average lookup by key; they are created with curly braces or dict(). Sets are unordered collections of unique elements that support fast membership testing and set operations like union, intersection, and difference. Choosing the right structure depends on whether you need mutability, ordering, uniqueness, or key-based access.",
+    "expected_concepts": ["list", "tuple", "dictionary", "set", "mutable", "immutable", "key-value", "append", "indexing", "unique"]
+  },
+  {
+    "id": 10,
+    "description": "History: American Civil War",
+    "passage": "The American Civil War (1861–1865) was fought between the Union (Northern states) and the Confederacy (Southern states that seceded). Primary causes included the institution of slavery, states' rights disputes, and economic differences between the industrialized North and agrarian South. Abraham Lincoln's 1860 election triggered Southern secession. Key battles include Bull Run, Antietam, Gettysburg, and Sherman's March to the Sea. The Emancipation Proclamation (1863) declared enslaved people in Confederate states free and reframed the war as a fight against slavery. The Confederacy surrendered at Appomattox Court House in April 1865. The Reconstruction era followed, attempting to reintegrate Southern states and address the rights of freed enslaved people.",
+    "expected_concepts": ["slavery", "confederacy", "union", "lincoln", "emancipation proclamation", "gettysburg", "reconstruction", "secession", "appomattox", "states' rights"]
+  }
+]
