@@ -15,7 +15,7 @@ practice sessions from your notes. Built with Flask and the OpenAI API.
 
 1. **Clone the repo**
    ```bash
-   git clone <your-repo-url>
+   git clone <git clone https://github.com/dariusmajd11/FlashMind.git>
    cd flashmind
    ```
 
